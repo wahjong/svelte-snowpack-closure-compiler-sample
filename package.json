@@ -4,13 +4,13 @@
     "build": "snowpack build --verbose"
   },
   "devDependencies": {
-    "@snowpack/app-scripts-svelte": "^2.0.0",
-    "@snowpack/plugin-svelte": "^3.5.2",
-    "snowpack": "^3.0.11",
-    "svelte": "^3.32.3"
+    "@snowpack/app-scripts-svelte": "^2.0.1",
+    "@snowpack/plugin-svelte": "^3.7.0",
+    "snowpack": "^3.8.8",
+    "svelte": "^3.46.0"
   },
   "dependencies": {
-    "google-closure-compiler": "^20210202.0.0"
+    "google-closure-compiler": "^20220104.0.0"
   },
   "browserslist": [
     ">0.25%",
